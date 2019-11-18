@@ -1,0 +1,51 @@
+{
+  "name": "cryptocurrency-crypto-bot-cryptobreedables",
+  "version": "1.12.12",
+  "description": "",
+  "main": "./index.js",
+  "nodemonConfig": {
+    "ignore": [
+      "lowdb/*"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cryptobot": "./index.js"
+  },
+  "pkg": {
+    "scripts": "./functions/**/*.js",
+    "assets": "./lowdb/**/*"
+  },
+  "author": "Christian Grieger",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "altcoin-rpc": "^1.0.2",
+    "array-unique": "^0.3.2",
+    "big.js": "^5.2.2",
+    "bufferutil": "^4.0.0",
+    "chance": "^1.0.18",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "erlpack": "^0.1.2",
+    "find-remove": "^1.2.2",
+    "fs": "0.0.1-security",
+    "get-json": "^1.0.1",
+    "jsonfile": "^5.0.0",
+    "libsodium-wrappers": "^0.7.3",
+    "log4js": "^3.0.6",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "mysql2": "^1.6.4",
+    "node-opus": "^0.3.1",
+    "opusscript": "0.0.6",
+    "promise-ftp": "^1.3.5",
+    "request-promise": "^4.2.4",
+    "sodium": "^3.0.2",
+    "sort-json": "^2.0.0",
+    "uws": "^99.0.0"
+  }
+}

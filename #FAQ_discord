@@ -1,0 +1,108 @@
+```ini
+[FREQUENTLY ASKED QUESTIONS]
+```
+**Why am I unable to execute all bot commands?**
+
+There are two different areas for commands. In the #🤖galilel-bot  all normal commands can be used. In the #game area only game commands can be executed. To get a list of commands use the command +help in each channel or read the pinned messages on the discord servers offering our game.
+
+**How does the game work?**
+
+Cryptobreedables is a text and image based driven game. Its as easy as it sounds. All actions can be done by reacting to the bot messages by clicking the emoji icons given on the events. You can fight, level up, collect some nice items and earn some free coins.
+
+```ini
+[GAME ICONS]
+```
+PLAYER (start values)
+**Level:** 0 -> 1 (76 EXP) - 500 (1698116 EXP)
+**Exp:** 0
+**Health:** 2000
+**Rez health:** 2000
+ITEMS
+**Eggs:** 0
+**Boxes:** 0
+**Divine shields:** 5 - **Health:**: 100
+**Life increase potions:** 3
+
+:monster: MONSTER
+**Description:** Monsters that players can attack for items, experience points and coins.
+**Damage:** 160-250
+**Trigger chance:** 5%
+
+:sword: ATTACK
+**Description:** Attack the monster and do damage based on your level, health and items you own.
+**Trigger chance:** 80%
+**Crit chance:** 10% (2x - 3x)
+
+:divineshield: DIVINE SHIELD
+**Description:** Protects players from the attack of monsters.
+**Trigger chance:** 80%
+**Hit protection remove:** 8-12
+**Total points:** 100
+**Max value to be kept:** 5 (more possible if bought from shop)
+
+:sword: BATTLE
+**Rounds:** 16
+**Round time:** 10 seconds
+**Hit EXP:** 4-6
+**Miss EXP:** 2-3
+**Kill EXP:** 8-10
+
+:box: GIFT BOX
+**Description:** Box you can open to win experience points, life, divine shields, life increase potions, extra boxes and coins.
+**Trigger chances:**
+     - Experience points (EXP) : Min 25 / Max 40 / Chance 100%
+     - Restore life : Min 200 / Max 500 / Chance 40%
+     - Restore divine shield protection: Min 20 / Max 30 / Chance 10%
+     - Divine shield / Chance 5%
+     - Life increase potion / Chance 5%
+     - Extra Box / Chance 10%
+     - Galilel coins Min 0.05 / Max 0.15 / Chance 100%
+     - Jackpot  / Min 50% /Max 80% / Chance 2% (each bought box from shop will add 10% to jackpot) (on a later state)
+**Command:** +use box
+
+:potion_red: Life increase potion
+**Description:** By using this potion, the maximum life is permanently increased.
+**Command:** +use lifeincreasepotion
+**Points:** 2-4
+
+:egg~1: Egg
+**Description:** Eggs from which dragons can be breed.
+**Command:** +use egg
+
+:cbdragon: Dragon
+**Description:** Attacks the monster and does damage based on your level and health. Only one pet can be active for a fight.
+**Command:** +activate <item type> <item ID> - Type !me to get the link to your profile page to check your pet number and ID.
+**Shine chance:** 5% **Shine:** 1-100 **Standard:** 0
+**Glow chance:** 3% **Glow:** 1-100 **Standard:** 0
+**Color:** randomly generated
+**Trigger chance:** 70%
+**Crit chance:** 8% (2x - 4x)
+
+:jackpot: Jackpot
+**Description:** 
+- Each bought box from shop will add 10% of the buy price to the jackpot. (While opening a box there is a chance to win the jackpot. (check box information))
+- After each fight a minimal value gets rained to the jackpot balance.
+**Command:** +jackpot (to display current jackpot information)
+**Trigger chance:** 2%
+
+:potion_green: Heal potion
+**Description:** By using this potion life gets increased.
+**Command:** +use healpotion
+**Life:** 50-100
+Max value to be kept: 8 (more possible if bought from shop)
+
+:rez: Rez
+**Description:** 
+- If you are dead you can use this command to get back to live.
+**Command:** +rez 
+
+:hf: :hh: :he: LIFE DISPLAY
+:blood: BLOOD
+:levelup: LEVEL UP
+:dead: KILL/DEAD
+:explode: DIVINE SHIELD EXPLODE
+
+:reddragon: Red dragon and :blackdragon: Black dragon
+**Description:** Attacks the monster and does damage based on your level and health. Only one pet can be active for a fight.
+**Trigger chance:** 50%
+**Crit chance:** 8% (2x - 3x)

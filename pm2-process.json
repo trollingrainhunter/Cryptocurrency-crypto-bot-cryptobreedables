@@ -1,0 +1,9 @@
+{
+    "script": "index.js",
+    "watch": true,
+    "ignore_watch": ["log","node_modules","lowdb","*.log"],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "name": "cb"
+}
