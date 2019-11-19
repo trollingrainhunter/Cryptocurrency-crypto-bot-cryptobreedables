@@ -6,7 +6,7 @@ Cryptobreedables is a text and image based driven Discord game. Its as easy as i
 **This bot is fully functional and ready to use but it only works if Cryptocurrency-crypto-bot is installed as first layer and this bot as second layer.**  
 
 
-### Preview pictures are located in the folder "preview" of this repo.
+** Preview pictures are located in the folder "preview" of this repo.**
 
 ---
 
