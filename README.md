@@ -1,9 +1,11 @@
 # Cryptocurrency-crypto-bot-cryptobreedables - Second layer bot for Cryptocurrency-crypto-bot
 Cryptobreedables is a text and image based driven Discord game. Its as easy as it sounds. All actions can be done by reacting to the bot messages by clicking the emoji icons given on the events. You can fight, level up, collect nice items and earn free crypto coins.
 
-```
-### This bot is fully functional and ready to use but it only works if Cryptocurrency-crypto-bot is installed as first layer and this bot as second layer.
-```
+---
+--
+**This bot is fully functional and ready to use but it only works if Cryptocurrency-crypto-bot is installed as first layer and this bot as second layer.**
+--
+---
 
 ## Pictures of the game are in the folder -> preview
 
