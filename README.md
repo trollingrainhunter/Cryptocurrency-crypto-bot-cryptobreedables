@@ -31,21 +31,21 @@ Show top 10 players.
 Display current bot version.  
 
 ### CRYPTOBREEDABLES BOT ADMIN COMMANDS
-``` +battle monster life points```   
+``` +battle <monster life points>```   
 Start a new monster battle.  
 ``` +destroy```   
 Destroy current monster battle.  
-``` +gift @username box|divineshield|lifeincreasepotion|healpotion|egg|life|protection amount```   
+``` +gift <@username> <box|divineshield|lifeincreasepotion|healpotion|egg|life|protection> <amount>```   
 Send a item as gift to another user.  
 ``` +cstart / +cstop```   
 Enable/Disable cryptobreedables bot commands while the bot is running.  
 ``` +kill```   
 Kill the current bot process.  
-``` +lock on/off/list/reset @username```   
+``` +lock <on/off/list/reset> <@username>```   
 Lock or unlock a user from blocklist commands. Show or reset blocklist users.  
-``` +summary days as number```   
+``` +summary <days as number>```   
 Show total game payouts and incomes of last requested days.  
-``` +shop normal/special```   
+``` +shop <normal/special>```   
 Open shop for users to buy itemas. (special and rare not active right now)  
 
 ### Additional information
