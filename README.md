@@ -11,7 +11,7 @@ Cryptobreedables is a text and image based driven Discord game. Its as easy as i
 ---
 
 ### CRYPTOBREEDABLES BOT COMMANDS
-```+me```  
+> ```+me```  
 Display your game stats and link.  
 ```+gift <@username> <box|divineshield|lifeincreasepotion|healpotion> <amount>```  
 Send a item(s) as gift to another user.  
@@ -31,7 +31,7 @@ Show top 10 players.
 Display current bot version.  
 
 ### CRYPTOBREEDABLES BOT ADMIN COMMANDS
-``` +battle <monster life points>```   
+> ``` +battle <monster life points>```   
 Start a new monster battle.  
 ``` +destroy```   
 Destroy current monster battle.  
