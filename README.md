@@ -5,10 +5,10 @@ Cryptobreedables is a text and image based driven Discord game. Its as easy as i
 
 **This bot is fully functional and ready to use but it only works if Cryptocurrency-crypto-bot is installed as first layer and this bot as second layer.**  
 
-
-*#* Preview pictures are located in the folder "preview" of this repo. *#*
-
 ---
+
+### Preview pictures
+<img src="https://user-images.githubusercontent.com/8712219/69252754-cb889980-0bb3-11ea-88c2-9b1014c93959.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252765-cdeaf380-0bb3-11ea-9cd4-5f4d668f70de.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252766-ce838a00-0bb3-11ea-8b5a-5eab6bccccfc.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252767-ce838a00-0bb3-11ea-8aff-0a8aeae78cbc.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252769-ce838a00-0bb3-11ea-8b8f-7f6706f6ec9c.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252770-cf1c2080-0bb3-11ea-9bb0-84dce34d041d.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252771-cf1c2080-0bb3-11ea-9567-ada375180740.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/8712219/69252772-cfb4b700-0bb3-11ea-9971-ede600b3be74.jpg" width="45%"></img> 
 
 ### CRYPTOBREEDABLES BOT COMMANDS
 > ```+me```  
